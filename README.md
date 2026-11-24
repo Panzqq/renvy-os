@@ -1,2 +1,6 @@
 # renvy-os
-Deployed from WhatsApp Bot (RenvyBot)
+
+Project uploaded from WhatsApp Bot (RenvyBot).
+
+- Deploy Target: Vercel
+- Total Files: 3
